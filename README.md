@@ -1,10 +1,25 @@
-# dart_rev
+## Content
 
-Section 8: App Building Time!
+This repository contains Section 8 - 10 of Dart & Flutter Course
 
-## Getting Started
+UI of this app only contains FAB and title bar.
 
-This project is a starting point for a Flutter application.
+#### Section 8
+- App overview
+- Design Process
+- Import Statements
+- Widgets
+
+#### Section 9
+
+- Stateless & Stateful Widgets
+- Local Import Statements
+- Refactoring Widgets
+
+#### Section 10
+
+- Generic Classes
+
 
 A few resources to get you started if this is your first Flutter project:
 
