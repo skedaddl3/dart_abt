@@ -1,6 +1,6 @@
 # dart_rev
 
-A new Flutter project.
+Section 8: App Building Time!
 
 ## Getting Started
 
